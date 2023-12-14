@@ -5,7 +5,7 @@
 
 int main(int, char**){
     // read input image
-cv::Mat image = cv::imread("C:/Users/denis/Desktop/CodeProjects/opencv/testpic.jpg",cv::IMREAD_GRAYSCALE );
+cv::Mat image = cv::imread("C:/Users/denis/Desktop/CodeProjects/opencv/signal-2023-12-14-212155_003.jpeg",cv::IMREAD_GRAYSCALE );
 if (image.empty()) {
         std::cout << "Error opening image file\n";
         return -1;
