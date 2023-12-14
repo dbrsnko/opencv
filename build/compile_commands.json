@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/denis/Desktop/CodeProjects/opencv/build",
+  "command": "C:\\gcccompiler\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\fastklt.dir\\main.cpp.obj -c C:\\Users\\denis\\Desktop\\CodeProjects\\opencv\\main.cpp",
+  "file": "C:/Users/denis/Desktop/CodeProjects/opencv/main.cpp",
+  "output": "CMakeFiles/fastklt.dir/main.cpp.obj"
+}
+]

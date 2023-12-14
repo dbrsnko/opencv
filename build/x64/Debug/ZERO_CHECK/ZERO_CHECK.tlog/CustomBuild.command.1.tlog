@@ -1,0 +1,10 @@
+^C:\USERS\DENIS\DESKTOP\CODEPROJECTS\OPENCV\BUILD\CMAKEFILES\DCBB9DBF51D6E2F5D8851B548ABC770A\GENERATE.STAMP.RULE
+setlocal
+C:\Users\denis\Documents\libraries\cmake\bin\cmake.exe -SC:/Users/denis/Desktop/CodeProjects/opencv -BC:/Users/denis/Desktop/CodeProjects/opencv/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/denis/Desktop/CodeProjects/opencv/build/fastklt.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,9 @@
+C:/Users/denis/Desktop/CodeProjects/opencv/build/CMakeFiles/Experimental.dir
+C:/Users/denis/Desktop/CodeProjects/opencv/build/CMakeFiles/Nightly.dir
+C:/Users/denis/Desktop/CodeProjects/opencv/build/CMakeFiles/Continuous.dir
+C:/Users/denis/Desktop/CodeProjects/opencv/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/denis/Desktop/CodeProjects/opencv/build/CMakeFiles/fastklt.dir
+C:/Users/denis/Desktop/CodeProjects/opencv/build/CMakeFiles/PACKAGE.dir
+C:/Users/denis/Desktop/CodeProjects/opencv/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/denis/Desktop/CodeProjects/opencv/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/denis/Desktop/CodeProjects/opencv/build/CMakeFiles/ZERO_CHECK.dir
